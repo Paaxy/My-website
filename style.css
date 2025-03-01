@@ -1,3 +1,19 @@
 body{
 font-family: Arial
 }
+
+body{
+    background-color: black
+}
+
+body{
+    color: greenyellow
+}
+
+hr{
+    border-color: greenyellow
+}
+
+ul li::marker{
+    color:greenyellow
+}
