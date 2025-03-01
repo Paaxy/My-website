@@ -17,3 +17,7 @@ hr{
 ul li::marker{
     color:greenyellow
 }
+
+a{
+    color:darkgreen
+}
